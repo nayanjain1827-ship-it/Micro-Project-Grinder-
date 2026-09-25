@@ -1,2 +1,2 @@
 # Micro-Project-Grinder-
-It is the project based on dc motor speed controller .Were logic is very clear that speed controller controls the speed of dc motor by dropping the voltage so the less charge or current flow so the speed can be altered . This is the only application or logic behind mixer or grinder
+It is the project based on dc motor speed controller .Were logic is very clear that speed controller controls the speed of dc motor by dropping the voltage so the less charge or current flow so the speed can be altered . This is the only application or logic behind mixer or grinder. So this the design is very simple but effective to use .Also connections are not very complex to be done.
